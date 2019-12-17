@@ -1,0 +1,13 @@
+
+## Title: Guidelime_MyGuideExample
+## Title-zhCN: [WangZhen]任务助手示例
+## Title-zhTW: [WangZhen]任务助手示例
+## Notes-zhTW: 自动导航接任务交任务并且规划任务路线
+## Notes-zhCN: 自动导航接任务交任务并且规划任务路线
+## Author: Me
+## Version: 0.001-Beta
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: My own guide for Guidelime
+
+MyGuide.lua

@@ -1,0 +1,11 @@
+## Interface: 11302
+## Version: 1.1.4
+## Title: Vendor Price
+## Title-zhCN: [WangZhen]售卖助手
+## Title-zhTW: [WangZhen]售卖助手
+## Notes: Display the sell value of an item when not at a vendor
+## Author: Ketho, Icesythe7
+## X-Curse-Project-ID: 322091
+## X-WoWI-ID: 24922
+
+VendorPrice.lua

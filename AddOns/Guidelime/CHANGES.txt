@@ -1,0 +1,30 @@
+tag f2a158f8c48b085d05a731dfcfb811525a5ba4ed v1.013
+Author:	max-ri <max_r_@web.de>
+Date:	Tue Sep 3 16:38:29 2019 +0200
+
+v1.013
+
+commit 6d41465e7407a6fcb95ab2649470342f2e2234a5
+Author: max-ri <max_r_@web.de>
+Date:   Tue Sep 3 16:38:28 2019 +0200
+
+    v1.013
+
+commit b22d12aae16d0d75efbe9e9490c4b022ba1ee0b4
+Author: max-ri <max_r_@web.de>
+Date:   Tue Sep 3 13:10:53 2019 +0200
+
+    fixed getting data from Questie for current Questie version
+
+commit afb49cee3d6d65e7b77b11221caf0f110d698ebd
+Author: max-ri <max_r_@web.de>
+Date:   Tue Sep 3 09:24:59 2019 +0200
+
+    Sevenleaves demo removed temporarily since download link was containing old addon version
+
+commit 867c6a923259cf63f9b6d21e29d7d68fab36072d
+Author: max-ri <51713394+max-ri@users.noreply.github.com>
+Date:   Mon Sep 2 19:39:53 2019 +0200
+
+    updated demos
+

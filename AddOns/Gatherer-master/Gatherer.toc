@@ -1,0 +1,25 @@
+## Interface: 11200
+## Title: Gatherer
+## Title-frFR: Gatherer
+## Title-deDE: Gatherer
+## Title-zhCN: [WangZhen]采集助手
+## Title-zhTW: [WangZhen]采集助手
+## Notes-zhTW: 收集草藥、礦、氣雲和釣魚的地點，並增加他們到世界地圖和小地圖。
+## Notes-zhCN: 收集草药、矿、气云和钓鱼的地点，并增加他们到世界地图和小地图。
+## Version: 1.0.0
+## Notes: Gatherer, displays stuff you gather in your minimap and world map
+## Notes-frFR: Gatherer, affiche les objets recoltes dans la minicarte et la carte du monde
+## Notes-deDE: Gatherer, zeigt gesammelte Krauter und Erze auf der Minikarte und Weltkarte an
+## Notes-ruRU: Gatherer показывает места сбора на мини-карте и карте мира.
+## SavedVariables: GatherItems, Gatherer_SavedSettings_AccountWide
+## SavedVariablesPerCharacter: Gatherer_SavedSettings_PerCharacter
+## OptionalDeps: myAddOns
+constants.lua
+string.lua
+math.lua
+notifications.lua
+database.lua
+Gatherer.xml
+GathererUI.xml
+GathererInfo.xml
+Gatherer_Config.lua
